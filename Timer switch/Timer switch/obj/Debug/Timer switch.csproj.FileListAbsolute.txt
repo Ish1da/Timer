@@ -1,0 +1,10 @@
+D:\MYWORK\timer\Timer switch\Timer switch\bin\Debug\Timer switch.exe.config
+D:\MYWORK\timer\Timer switch\Timer switch\bin\Debug\Timer switch.exe
+D:\MYWORK\timer\Timer switch\Timer switch\bin\Debug\Timer switch.pdb
+D:\MYWORK\timer\Timer switch\Timer switch\obj\Debug\Timer switch.csprojAssemblyReference.cache
+D:\MYWORK\timer\Timer switch\Timer switch\obj\Debug\Timer_switch.Form1.resources
+D:\MYWORK\timer\Timer switch\Timer switch\obj\Debug\Timer_switch.Properties.Resources.resources
+D:\MYWORK\timer\Timer switch\Timer switch\obj\Debug\Timer switch.csproj.GenerateResource.cache
+D:\MYWORK\timer\Timer switch\Timer switch\obj\Debug\Timer switch.csproj.CoreCompileInputs.cache
+D:\MYWORK\timer\Timer switch\Timer switch\obj\Debug\Timer switch.exe
+D:\MYWORK\timer\Timer switch\Timer switch\obj\Debug\Timer switch.pdb
